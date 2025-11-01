@@ -1,0 +1,5 @@
+{
+  "name": "Lesson Plan Generator with AI Strategies",
+  "description": "An application that allows educators to enter a lesson title and generate a detailed, interactive lesson plan based on various modern teaching strategies, powered by AI.",
+  "requestFramePermissions": []
+}
